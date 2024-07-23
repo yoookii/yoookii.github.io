@@ -1,7 +1,5 @@
 -----------------------
 # README
-
-Template Info:
 -----------------------
 Name: 		Yoki-Portfolio
 Version: 	1.1

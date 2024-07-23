@@ -490,6 +490,13 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     color: #999fb3; 
 }
 
+.timeline-content .description li:nth-child(odd) {
+    color: gray; 
+}
+
+.timeline-content .description li:nth-child(even) {
+    color: #999fb3; 
+}
 
 .main-timeline .timeline-content.right{
     float: right;
